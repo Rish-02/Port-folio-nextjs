@@ -12,7 +12,7 @@ const projectsData = [
     image: "/images/portfolio.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Rish-02/Port-folio-nextjs",
-    previewUrl: "/",
+    previewUrl: "https://www.port-folio-rish.netlify.app",
   },
   {
     id: 2,
@@ -39,7 +39,7 @@ const projectsData = [
     image: "/images/inventory.png",
     tag: ["All", "Mobile"],
     gitUrl: "https://github.com/Rish-02/inventry",
-    previewUrl: "/",
+    previewUrl: "https://pinventapp.netlify.app/",
   },
   {
     id: 5,
@@ -57,7 +57,7 @@ const projectsData = [
     image: "/images/bhashamotion.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Rish-02/Bhasha-Motion",
-    previewUrl: "/",
+    previewUrl: "https://bhasha-motion.vercel.app/",
   },
 ];
 
