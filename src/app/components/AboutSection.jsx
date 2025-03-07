@@ -15,6 +15,7 @@ const TAB_DATA = [
         <li>C/C++</li>
         <li>JavaScript</li>
         <li>React</li>
+        <li>Spring Boot</li>
       </ul>
     ),
   },
