@@ -12,7 +12,7 @@ const projectsData = [
     image: "/images/paymentGateway.png",
     tag: ["All", "Fullstack"],
     gitUrl: "https://github.com/Rish-02/payment-gateway",
-    previewUrl: "https://payment-gateway-r77uns87h-rish-02s-projects.vercel.app/",
+    previewUrl: "https://payment-gateway-beta-seven.vercel.app/",
   },
   {
     id: 2,
